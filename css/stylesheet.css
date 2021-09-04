@@ -1,0 +1,27 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+    }
+    .barra-menu{
+        margin: 0 auto;
+        margin: 15px;
+        padding-bottom: 30px;
+    }
+    h1{
+        text-align: center;
+        color: black;
+        padding-bottom: 30px;
+    
+    }
+    .mural{
+        padding-bottom: 30px;
+    }
+    .mural img{
+        max-height: 300px;
+    }
+    .footer{
+        text-align: center;
+    }
